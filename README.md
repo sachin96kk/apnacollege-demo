@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is first repo
-Authoe-sachin shinde
+Authoer-sachin shinde
